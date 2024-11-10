@@ -21,10 +21,6 @@ height={50}
 className="logoo"             
 />
 
-
-
-
-
       <label className="logo">Muskan</label>
       <ul>
         <li className="active">
@@ -213,48 +209,25 @@ ensuring it's difficult to guess while remaining easy for you to remember.</p>
 
 
 
-{/* footer */}
+{/* footer */ }
 <footer>
-
-
   <div className="parent-footer">
     <div className="one-coloumn">
-  <h1 className="footer-heading">Muskan Batool</h1>
+      <h1 className="footer-heading">Muskan Batool</h1>
 
-  <p className="footer-description">Thank you for visiting my portfolio! I appreciate your time and interest.Feel free to follow <br />me on social media for updates on my latest projects, insights, and professional journey. <br />Let's stay connected!</p>
-      </div>
+      <p className="footer-description">Thank you for visiting my portfolio! I appreciate your time and interest. Feel free  to follow <br /> me  on social media for updates on my latest projects, insights, and professional journey. <br /> Let's stay connected!</p>
+    </div>
 
-
-
-
-
-
-  
-  
-
-
-<div className="four-coloumn">
-<h1 className="social">Social Media</h1>
-  
-<i className="fa-brands fa-facebook" aria-hidden="true"></i>
-<Link href="https://www.linkedin.com/in/muskan-batool-15584b277/" target="blank"><i className="fa-brands fa-linkedin" aria-hidden="true"></i></Link>
-<i className="fa-brands fa-square-twitter" aria-hidden="true"></i>
-<Link href="https://github.com/imuskanbatool7" target="blank"><i className="fa-brands fa-github" aria-hidden="true"></i></Link>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-</div>
-<hr />
-<p className="after-hr">© Copyright {new Date().getFullYear()}.Done by Muskan Batool</p>
+    <div className="four-coloumn">
+      <h1 className="social">Social Media</h1>
+      <i className="fa-brands fa-facebook" aria-hidden="true"></i>
+      <Link href="https:www.linkedin.com/in/muskan-batool-15584b277" target="blank"><i className="fa-brands fa-linkedin" aria-hidden="true"></i></Link>
+      <i className="fa-brands fa-square-twitter" aria-hidden="true"></i>
+      <Link href="https://github.com/imuskanbatool7" target="blank"><i className="fa-brands fa-github" aria-hidden="true"></i></Link>
+    </div>
+  </div>
+  <hr />
+  <p className="after-hr">© Copyright {new Date().getFullYear()}.Made by Muskan batool</p>
 </footer>
 
 
